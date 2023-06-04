@@ -12,5 +12,5 @@ int main()
     cin>>a;
     cin>>b;
     int sum = a+b;
-    cout<<"The sum of "<<a<<" and "<<b<<" is "<<sum;
+    cout<<"The sum of two numbers "<<a<<" and "<<b<<" is "<<sum;
 }
